@@ -8,9 +8,14 @@
 ◾ recomposition
 ◾ remember 🤔
 ◾ diff between remember and mutableState
+---
 - ◾ state hoisting
 ◾ pros of state hoisting
 ◾ when to avoid state hoisting
 ◾ safely pass state between different composables
 ◾ Callback functions
+---
+- ◾ LazyColumn, LazyRow
+◾ Difference between LazyColumn & RecyclerView
+◾ Difference between remember & rememberSaveable
 ---
